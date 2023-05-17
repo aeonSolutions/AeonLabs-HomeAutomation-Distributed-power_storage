@@ -32,17 +32,7 @@ This is a smart device made to fit this EU 220V power outlet with 2 USB A port s
 This is a simple PCB for a direct fit on commercially available [blue solar cell tiles](https://s.click.aliexpress.com/e/_DCnJW0V) to do active solar cell tile and battery management up to 8 solar tiles conencted together intended for indoor usage. In particular to be installed on the top or downside of transparent glass windows at a home or office. This PCB, when assembled with a blue solar cell tile, can be used to power a low voltage 4.2V indoor illumination network using ultra-low power micro LED strips.  For insatnce [this one](https://s.click.aliexpress.com/e/_DCKg9xJ) sold on AliExpress.   
 
 <p align="center">
-<a href="https://s.click.aliexpress.com/e/_DCnJW0V">
-<img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-18650-battery-storage/blob/main/Designs/blue%20solar%20tiles.png" height="200">
-</a>
-</p>
-
-<br>
-
-## PCB
-
-<p align="center">
-<img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Solar-Cell-offgrid-Power-Monitor-for-Indoor-Window-Tiles/blob/main/Designs/pcb_front.png" height="350">
+<img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Solar-Cell-offgrid-Power-Monitor-for-Indoor-Window-Tiles/blob/main/Designs/pcb_front.png" height="200">
 </p>
 
 <br>
