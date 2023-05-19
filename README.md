@@ -18,6 +18,14 @@
 
 <br>
 
+- [78x39mm Solar Cell Management 5V, 9V, 12V DC up to 9A Max](https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell--Power_Management)
+
+<p align="center">
+<img src="https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell--Power_Management/blob/main/media/kicad_63WVZY1xpR.png" height="200">
+</p>
+
+<br>
+
 - [Selectable USB DC Power Outlet](https://github.com/aeonSolutions/AeonLabs-AeonLabs-HomeAutomation-Distributed-power_storage-Selectable-USB-DC-power-outlet/tree/main)
 
 This is a smart device made to fit this EU 220V power outlet with 2 USB A port selling [here](https://s.click.aliexpress.com/e/_DlU2D7j).  This smart device enables management of multi low powered DC lines, in the range of 3.3V to 24V DC. Each individual USB-A port can be setup to deliver individual DC output. For instance 5V DC on one port and 12V DC on the other.  
