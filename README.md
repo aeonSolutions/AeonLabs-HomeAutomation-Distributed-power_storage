@@ -20,7 +20,7 @@
 
 - [78x39mm Solar Cell Management 5V, 9V, 12V DC up to 9A Max](https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell--Power_Management)
 
-This PCB is for assembly with [79x38mm solar cells](https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell/tree/main). It features up to 6x independent power solar lines, with up to 97.1 % of efficiency, that can be configured by a dip switch for 3 different DC outputs: 5V, 9V, and 12V ( 9A max).
+This PCB is for assembly with [79x38mm solar cells](https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell/tree/main). It features up to 6x independent solar cell power lines, with up to 97.1 % of efficiency, that can be configured by a dip switch for 3 different DC outputs: 5V, 9V, and 12V ( 9A max).
 
 <p align="center">
 <img src="https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell--Power_Management/blob/main/media/kicad_63WVZY1xpR.png" height="200">
