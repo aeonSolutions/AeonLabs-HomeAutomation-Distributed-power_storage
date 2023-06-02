@@ -19,6 +19,16 @@
 
 <br>
 
+- [Automatic Power Delivery USB DC Power Outlet]( soon. stay tuned)
+
+This is a smart device made to fit this EU 220V power outlet with 2 USB A port selling [here](https://s.click.aliexpress.com/e/_DlU2D7j).  This smart device enables management of multi low powered DC lines, in the range of 3.3V to 24V DC. Each individual USB-A port can be setup to deliver individual DC output. For instance 5V DC on one port and 12V DC on the other.  The novelty on this particular smart electronics is teh ability to deliver USB power with an adjustable USB voltage from anywhere between 5V and 20V and up to 100W. 
+
+<p align="center">
+<img src="https://github.com/aeonSolutions/AeonLabs-AeonLabs-HomeAutomation-Distributed-power_storage-Selectable-USB-DC-power-outlet/blob/main/media/power_outlet.jpeg" height="200">
+</p>
+
+<br>
+
 - [78x39mm Solar Cell Management 5V, 9V, 12V DC up to 9A Max](https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell--Power_Management)
 
 This PCB is for assembly with [79x38mm solar cells](https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell/tree/main). It features up to 6x independent solar cell power lines, with up to **97.1 % of efficiency**, that can be configured by a dip switch for 3 different DC outputs: 5V, 9V, and 12V ( 9A max).
