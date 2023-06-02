@@ -21,7 +21,7 @@
 
 - [Automatic Power Delivery USB DC Power Outlet]( soon. stay tuned)
 
-This is a smart device made to fit this EU 220V power outlet with 2 USB A port selling [here](https://s.click.aliexpress.com/e/_DlU2D7j).  This smart device enables power delivery management on low powered DC lines, in the range of 3.3V to 20V DC and up to 100W. Each individual USB-A port can be setup to deliver individual DC output. For instance 5V DC on one port and 12V DC on the other.  The novelty on this particular smart electronics is teh ability to deliver USB power with the capability of automatic negotiation of voltage from anywhere between 5V and 20V and up to 100W. 
+This is a smart device made to fit this EU 220V power outlet with 2 USB A port selling [here](https://s.click.aliexpress.com/e/_DlU2D7j).  This smart device enables power delivery management on low powered DC lines, in the range of 3.3V to 20V DC and up to 100W. Each individual USB-A port can be setup to deliver individual DC output. For instance 5V DC on one port and 12V DC on the other.  The innovation on this particular smart electronics is in its ability to deliver USB power with the capability of automatic negotiation of voltage from anywhere between 5V and 20V and up to 100W. 
 
 <p align="center">
 <img src="https://github.com/aeonSolutions/AeonLabs-AeonLabs-HomeAutomation-Distributed-power_storage-Selectable-USB-DC-power-outlet/blob/main/media/power_outlet.jpeg" height="200">
