@@ -18,6 +18,7 @@
 # Distributed Power Storage
 
 The main objective of this project is to negotiate power delivery to each individual power outlet sockets from a master Distributed Power Management System. Is possible to achive this using only 2 wires where one of them is used for both power and data transmission. There's a really good one-wire library [here](https://github.com/M-o-a-T/owslave) that enables one to build such power delivery setup.
+
 <br>
 
 - [Automatic Power Delivery USB DC Power Outlet]() ( soon. stay tuned)
