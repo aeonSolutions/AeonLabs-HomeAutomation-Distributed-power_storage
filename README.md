@@ -18,11 +18,13 @@
 # Distributed Power Storage
 
 **The problem**
+
 Now that a universal cable connector is a reality, the USB-C, the next big change is on how to remove all those power converters and inverters at home, vis-a-vis, " power bricks". These can waste up to 30% of electricity "converted". And in my professional opinion, the best and only way to do it is by adding a small mechanical switch, however, mechanical relays consume too much power (around 200mW). 
 
 <br>
 
 **The ideia**
+
 To solve the 30% wasted on conversion, the only way is, to reduce to the minimum "power bricks" needed /required. This can be achieved by installing several electricity lines in parallel connected to each power outlet in a room, nowadays with built-in USB connectivity. USB-C power delivery is capable to manage automatically powerlines up to 20V 5A DC meaning all indoor LED illumination, laptop computers, smartphones & tablets, and all smart devices including big OLED TV screens.
 
 One possible solution to solve electricity consumption in standby mode is by using a micro stepped DC motor connected to simple electronics with "deep sleep" with or without wireless capabilities. This way is possible to lower consumption to 2-8uA @ 3.3V DC.
