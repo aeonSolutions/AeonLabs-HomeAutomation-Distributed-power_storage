@@ -30,7 +30,10 @@ To solve the 30% wasted on conversion, the only way is, to reduce to the minimum
 One possible solution to solve electricity consumption in standby mode is by using a micro stepped DC motor connected to simple electronics with "deep sleep" with or without wireless capabilities. This way is possible to lower consumption to 2-8uA @ 3.3V DC.
 
 The main objective of this project is to negotiate power delivery to each individual power outlet sockets from a master Distributed Power Management System. Is possible to achive this using only 2 wires where one of them is used for both power and data transmission. There's a really good one-wire library [here](https://github.com/M-o-a-T/owslave) that enables one to build such power delivery setup.
+
 <br>
+
+## Electronic Devices Prototyped
 
 - [Automatic Power Delivery USB DC Power Outlet]() ( soon. stay tuned)
 
