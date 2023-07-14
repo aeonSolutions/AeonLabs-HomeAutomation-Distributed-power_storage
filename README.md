@@ -33,6 +33,10 @@ The main objective of this project is to negotiate power delivery to each indivi
 
 <br>
 
+If you prefer, can read about my prototype iteration tests on Hackster.IO. Here's the [link](https://www.hackster.io/mtpsilva).
+
+<br>
+
 ## Electronic Devices Prototyped
 
 - [Automatic Power Delivery USB DC Power Outlet]() ( soon. stay tuned)
