@@ -4,13 +4,11 @@
  [![Say Thanks](https://img.shields.io/badge/Say%20Thanks-!-yellow.svg?style=for-the-badge)](https://saythanks.io/to/mtpsilva)
 ![](https://img.shields.io/github/last-commit/aeonSolutions/PCB-Prototyping-Catalogue?style=for-the-badge)
 <a href="https://trackgit.com">
-<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l6unzfyg9q2db2xgpphl" alt="trackgit-views" />
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l5m5z1845s10s47cuyl5" alt="trackgit-views" />
 </a>
-![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-InnoTech-Intelligent-Weight-Scale.svg)
+![](https://views.whatilearened.today/views/github/aeonSolutions/PCB-Prototyping-Catalogue.svg)
 
-<p align="center">
-   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/smart_solar_cell.jpg" height="300">
-</p>
+<br>
 
 [PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Home-Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation)  >>   Distributed Power Storage
 
@@ -41,6 +39,8 @@ If you prefer, can read about my prototype iteration tests on Hackster.IO. Here'
 - [USB-A Power Scheduler](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-USB-A-Power-Scheduler)
 
 This is a simple Power Scheduler with BLE / WIFI connectivity to turn ON or OFF a USB-A port/Plug / outlet. 
+
+<br>
 
 - [45,000mA Power Wall using 18650 Lithium Polymer Batteries](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-45-000mA-Power-Wall-18650-Lithium-Polymer-Batteries)
 
