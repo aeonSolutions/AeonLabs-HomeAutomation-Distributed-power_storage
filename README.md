@@ -38,6 +38,10 @@ If you prefer, can read about my prototype iteration tests on Hackster.IO. Here'
 <br>
 
 ## Electronic Devices Prototyped
+- [USB-A Power Scheduler](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-USB-A-Power-Scheduler)
+
+This is a simple Power Scheduler with BLE / WIFI connectivity to turn ON or OFF a USB-A port/Plug / outlet. 
+
 - [45,000mA Power Wall using 18650 Lithium Polymer Batteries](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-45-000mA-Power-Wall-18650-Lithium-Polymer-Batteries)
 
   Here in Belgium, is often found all kinds of home appliances when walking on the sidewalk. And anyone is free to take them. Gratis. The other day i picked up on the street this blue ray device. And, as i always do, the first thing i did was to disassemble it to its individual parts and components. It has capacity for 45,000mA @ 4.2V DC, More than enough for powering of the grid all 5-9V DC  devices and appliances at any family home. During winter days , rainy days, this power 🔋 wall will charge itself from the main 220V AC but only during the night when electricity is much cheaper. The estimated savings on the electricity bill at the end of the month are expected to be between 10eur to 20eur. Payback time is only 10 months. The minimum efficiency of this power wall is 95%  With an LCD display for some cool consumption statistics and three buttons for ......I don't know yet ! 
