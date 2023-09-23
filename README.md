@@ -36,6 +36,10 @@ If you prefer, can read about my prototype iteration tests on Hackster.IO. Here'
 <br>
 
 ## Electronic Devices Prototyped
+- [Smart Distributed DC Power Management](https://github.com/aeonSolutions/AeonLabs-Distributed-Power-Solutions-Smart-Distributed-DC-Power-Management/tree/main)
+
+  <br>
+  
 - [USB-A Power Scheduler](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-USB-A-Power-Scheduler)
 
 This is a simple Power Scheduler with BLE / WIFI connectivity to turn ON or OFF a USB-A port/Plug / outlet at any give day and hour. Compatible with all major commercial vendors and also open source vendors such as home assistant.   
