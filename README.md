@@ -38,6 +38,12 @@ If you prefer, can read about my prototype iteration tests on Hackster.IO. Here'
 ## Electronic Devices Prototyped
 - [Smart Distributed DC Power Management](https://github.com/aeonSolutions/AeonLabs-Distributed-Power-Solutions-Smart-Distributed-DC-Power-Management/tree/main)
 
+This smart distributed DC power managment and charging device has the purpose to charge 5V DC battery walls and power packs from the main 220V AC line at home. The innovation of this power charging device is in the ability to schedule charging to specific times during the day and night acording to the price of electricity cchange. It can be programmed using machine learning to connect to a electricity market data source and calculate the best time to schedule battery charging acording to the price variations on the electricity markets.
+
+<p align="center">
+   <img height="250px" src="https://github.com/aeonSolutions/AeonLabs-Distributed-Power-Solutions-Smart-Distributed-DC-Power-Management/blob/main/media/pcb_front.png">
+</p>
+
   <br>
   
 - [USB-A Power Scheduler](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-USB-A-Power-Scheduler)
