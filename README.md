@@ -48,7 +48,7 @@ This smart distributed DC power management and charging device has the purpose t
   
 - [USB-A Power Scheduler](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-USB-A-Power-Scheduler)
 
-This is a simple Power Scheduler with BLE / WIFI connectivity to turn ON or OFF a USB-A port/Plug / outlet at any give day and hour. Compatible with all major commercial vendors and also open source vendors such as home assistant.   
+This is a simple Power Scheduler with BLE / WIFI connectivity to turn ON or OFF a USB-A port/Plug / outlet at any give day and hour. Compatible with all major commercial vendors and also open source vendors such as home assistant. The innovation of this  USB Power Scheduler device is in the ability to schedule charging to specific times during the day and night according to the price of electricity change. It can be programmed using machine learning to connect to a electricity market data source and calculate the best time to schedule power according to the price variations on the electricity markets.  
 
 <p align="center">
    <img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-USB-A-Power-Scheduler/blob/main/media/pcb_front.png" height="200"">
