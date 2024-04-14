@@ -27,24 +27,24 @@ Now that a universal cable connector is a reality, the USB-C, the next big chang
 
 <br>
 
-**The ideia**
+**The idea**
 
-To solve the 30% wasted on conversion, the only way is, to reduce to the minimum "power bricks" needed /required. This can be achieved by installing several electricity lines in parallel connected to each power outlet in a room, nowadays with built-in USB connectivity. USB-C power delivery is capable to manage automatically powerlines up to 20V 5A DC meaning all indoor LED illumination, laptop computers, smartphones & tablets, and all smart devices including big OLED TV screens.
+To solve the 30% wasted on conversion, the only way is, to reduce to the minimum "power bricks" needed /required. This can be achieved by installing several electricity lines in parallel connected to each power outlet in a room, nowadays with built-in USB connectivity. USB-C power delivery is capable of managing automatically powerlines up to 20V 5A DC meaning all indoor LED illumination, laptop computers, smartphones & tablets, and all smart devices including big OLED TV screens.
 
 One possible solution to solve electricity consumption in standby mode is by using a micro stepped DC motor connected to simple electronics with "deep sleep" with or without wireless capabilities. This way is possible to lower consumption to 2-8uA @ 3.3V DC.
 
-The main objective of this project is to negotiate power delivery to each individual power outlet sockets from a master Distributed Power Management System. Is possible to achive this using only 2 wires where one of them is used for both power and data transmission. There's a really good one-wire library [here](https://github.com/M-o-a-T/owslave) that enables one to build such power delivery setup.
+The main objective of this project is to negotiate power delivery to each individual power outlet socket from a master Distributed Power Management System. Is possible to achieve this using only 2 wires where one of them is used for both power and data transmission. There's a really good one-wire library [here](https://github.com/M-o-a-T/owslave) that enables one to build such a power delivery setup.
 
 <br>
 
-If you prefer, can read about my prototype iteration tests on Hackster.IO. Here's the [link](https://www.hackster.io/mtpsilva).
+If you prefer, can read about my prototype iteration tests on Hackster. IO. Here's the [link](https://www.hackster.io/mtpsilva).
 
 <br>
 
 ## Electronic Devices Prototyped
 - [Smart Distributed DC Power Management](https://github.com/aeonSolutions/AeonLabs-Distributed-Power-Solutions-Smart-Distributed-DC-Power-Management/tree/main)
 
-This smart distributed DC power management and charging device has the purpose to charge 5V DC battery walls and power packs from the main 220V AC line at home. The innovation of this power charging device is in the ability to schedule charging to specific times during the day and night according to the price of electricity change. It can be programmed using machine learning to connect to a electricity market data source and calculate the best time to schedule battery charging according to the price variations on the electricity markets.
+This smart distributed DC power management and charging device has the purpose of charging 5V DC battery walls and power packs from the main 220V AC line at home. The innovation of this power charging device is in the ability to schedule charging to specific times during the day and night according to the price of electricity change. It can be programmed using machine learning to connect to an electricity market data source and calculate the best time to schedule battery charging according to the price variations in the electricity markets.
 
 <p align="center">
    <img height="250px" src="https://github.com/aeonSolutions/AeonLabs-Distributed-Power-Solutions-Smart-Distributed-DC-Power-Management/blob/main/media/pcb_front.png">
@@ -54,7 +54,7 @@ This smart distributed DC power management and charging device has the purpose t
   
 - [USB-A Power Scheduler](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-USB-A-Power-Scheduler)
 
-This is a simple Power Scheduler with BLE / WIFI connectivity to turn ON or OFF a USB-A port/Plug / outlet at any give day and hour. Compatible with all major commercial vendors and also open source vendors such as home assistant. The innovation of this  USB Power Scheduler device is in the ability to schedule charging to specific times during the day and night according to the price of electricity change. It can be programmed using machine learning to connect to a electricity market data source and calculate the best time to schedule power according to the price variations on the electricity markets.  
+This is a simple Power Scheduler with BLE / WIFI connectivity to turn ON or OFF a USB-A port/Plug/outlet at any given day and hour. Compatible with all major commercial vendors and also open source vendors such as Home Assistant. The innovation of this  USB Power Scheduler device is in the ability to schedule charging to specific times during the day and night according to the price of electricity change. It can be programmed using machine learning to connect to an electricity market data source and calculate the best time to schedule power according to the price variations in the electricity markets.  
 
 <p align="center">
    <img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-USB-A-Power-Scheduler/blob/main/media/pcb_front.png" height="200"">
@@ -64,7 +64,7 @@ This is a simple Power Scheduler with BLE / WIFI connectivity to turn ON or OFF 
 
 - [45,000mA Power Wall using 18650 Lithium Polymer Batteries](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-45-000mA-Power-Wall-18650-Lithium-Polymer-Batteries)
 
-  Here in Belgium, is often found all kinds of home appliances when walking on the sidewalk. And anyone is free to take them. Gratis. The other day i picked up on the street this blue ray device. And, as i always do, the first thing i did was to disassemble it to its individual parts and components. It has capacity for 45,000mA @ 4.2V DC, More than enough for powering of the grid all 5-9V DC  devices and appliances at any family home. During winter days , rainy days, this power 🔋 wall will charge itself from the main 220V AC but only during the night when electricity is much cheaper. The estimated savings on the electricity bill at the end of the month are expected to be between 10eur to 20eur. Payback time is only 10 months. The minimum efficiency of this power wall is 95%  With an LCD display for some cool consumption statistics and three buttons for ......I don't know yet ! 
+  Here in Belgium, is often found all kinds of home appliances when walking on the sidewalk. And anyone is free to take them. Gratis. The other day I picked up on the street this blue ray device. And, as I always do, the first thing I did was to disassemble it to its individual parts and components. It has a capacity of 45,000mA @ 4.2V DC, More than enough for powering of the grid all 5-9V DC  devices and appliances at any family home. During winter days, and rainy days, this power 🔋 wall will charge itself from the main 220V AC but only during the night when electricity is much cheaper. The estimated savings on the electricity bill at the end of the month are expected to be between 10eur to 20eur. Payback time is only 10 months. The minimum efficiency of this power wall is 95%  With an LCD display for some cool consumption statistics and three buttons for ......I don't know yet! 
 
 <p align="center">
 <img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-45-000mA-Power-Wall-18650-Lithium-Polymer-Batteries/blob/main/media/WhatsApp%20Image%202023-09-02%20at%2014.37.48.jpg" height="200">
@@ -74,7 +74,7 @@ This is a simple Power Scheduler with BLE / WIFI connectivity to turn ON or OFF 
 
 - [Automatic Power Delivery USB DC Power Outlet]() ( soon. stay tuned)
 
-This is a smart device made to fit this EU 220V power outlet with 2 USB A port selling [here](https://s.click.aliexpress.com/e/_DlU2D7j).  This smart device enables power delivery management on low powered DC lines, in the range of 3.3V to 20V DC and up to 100W. Each individual USB-A port can be setup to deliver individual DC output. For instance 5V DC on one port and 12V DC on the other.  The innovation on this particular smart electronics is in its ability to deliver USB power with the capability of automatic negotiation of voltage from anywhere between 5V and 20V and up to 100W.  While this project does not start, here's a great [video tutorial](https://www.instructables.com/DIY-USB-Type-C-Power-Delivery-Trigger-Board/) by GreatScott.  
+This is a smart device made to fit this EU 220V power outlet with 2 USB A ports selling [here](https://s.click.aliexpress.com/e/_DlU2D7j).  This smart device enables power delivery management on low-powered DC lines, in the range of 3.3V to 20V DC and up to 100W. Each individual USB-A port can be set up to deliver individual DC output. For instance 5V DC on one port and 12V DC on the other.  The innovation of this particular smart electronics is in its ability to deliver USB power with the capability of automatic negotiation of voltage from anywhere between 5V and 20V and up to 100W.  While this project has not started, here's a great [video tutorial](https://www.instructables.com/DIY-USB-Type-C-Power-Delivery-Trigger-Board/) by GreatScott.  
 
 <p align="center">
 <img src="https://github.com/aeonSolutions/AeonLabs-AeonLabs-HomeAutomation-Distributed-power_storage-Selectable-USB-DC-power-outlet/blob/main/media/power_outlet.jpeg" height="200">
@@ -84,7 +84,7 @@ This is a smart device made to fit this EU 220V power outlet with 2 USB A port s
 
 - [78x39mm Solar Cell Management 5V, 9V, 12V DC up to 9A Max](https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell--Power_Management)
 
-This PCB is for assembly with [79x38mm solar cells](https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell/tree/main). It features up to 6x independent solar cell power lines, with up to **97.1 % of efficiency**, that can be configured by a dip switch for 3 different DC outputs: 5V, 9V, and 12V ( 9A max).
+This PCB is for assembly with [79x38mm solar cells](https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell/tree/main). It features up to 6x independent solar cell power lines, with up to **97.1 % efficiency**, that can be configured by a dip switch for 3 different DC outputs: 5V, 9V, and 12V ( 9A max).
 
 <p align="center">
 <img src="https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell--Power_Management/blob/main/media/kicad_63WVZY1xpR.png" height="200">
@@ -94,7 +94,7 @@ This PCB is for assembly with [79x38mm solar cells](https://github.com/aeonSolut
 
 - [Selectable USB DC Power Outlet](https://github.com/aeonSolutions/AeonLabs-AeonLabs-HomeAutomation-Distributed-power_storage-Selectable-USB-DC-power-outlet/tree/main)
 
-This is a smart device made to fit this EU 220V power outlet with 2 USB A port selling [here](https://s.click.aliexpress.com/e/_DlU2D7j).  This smart device enables management of multi low powered DC lines, in the range of 3.3V to 24V DC. Each individual USB-A port can be setup to deliver individual DC output. For instance 5V DC on one port and 12V DC on the other.  
+This is a smart device made to fit this EU 220V power outlet with 2 USB A ports selling [here](https://s.click.aliexpress.com/e/_DlU2D7j).  This smart device enables the management of multi-low powered DC lines, in the range of 3.3V to 24V DC. Each individual USB-A port can be set up to deliver individual DC output. For instance 5V DC on one port and 12V DC on the other.  
 
 <p align="center">
 <img src="https://github.com/aeonSolutions/AeonLabs-AeonLabs-HomeAutomation-Distributed-power_storage-Selectable-USB-DC-power-outlet/blob/main/media/power_outlet.jpeg" height="200">
@@ -103,7 +103,7 @@ This is a smart device made to fit this EU 220V power outlet with 2 USB A port s
 
 - [Smart Battery Management](https://github.com/aeonSolutions/AeonLabs-AeonLabs-HomeAutomation-Distributed-power_storage-Smart-Battery-Management)
 
-This is a simple PCB for a direct fit on commercially available [blue solar cell tiles](https://s.click.aliexpress.com/e/_DCnJW0V) to do active solar cell tile and battery management up to 8 solar tiles conencted together intended for indoor usage. In particular to be installed on the top or downside of transparent glass windows at a home or office. This PCB, when assembled with a blue solar cell tile, can be used to power a low voltage 4.2V indoor illumination network using ultra-low power micro LED strips.  For insatnce [this one](https://s.click.aliexpress.com/e/_DCKg9xJ) sold on AliExpress.   
+This is a simple PCB for a direct fit on commercially available [blue solar cell tiles](https://s.click.aliexpress.com/e/_DCnJW0V) to do active solar cell tile and battery management up to 8 solar tiles connected together intended for indoor usage. In particular to be installed on the top or downside of transparent glass windows at a home or office. This PCB, when assembled with a blue solar cell tile, can be used to power a low voltage 4.2V indoor illumination network using ultra-low power micro LED strips.  For instance [this one](https://s.click.aliexpress.com/e/_DCKg9xJ) sold on AliExpress.   
 
 <p align="center">
 <img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Solar-Cell-offgrid-Power-Monitor-for-Indoor-Window-Tiles/blob/main/Designs/pcb_front.png" height="200">
@@ -152,7 +152,7 @@ You can also follow my GitHub Profile to stay updated about my latest projects: 
 <br>
 
 ### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
-The PCB Desgin Files i provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
+The PCB Design Files I provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza, or a book to help me study, eat, and think new PCB design files.
 
 <p align+"left">
 <a href="https://www.buymeacoffee.com/migueltomas">
@@ -165,20 +165,13 @@ The PCB Desgin Files i provide here for anyone to use are free. If you like this
 <br />
 
 ### Make a donation on Paypal
-Make a donation on paypal and get a TAX refund*.
+Make a donation on PayPal and get a TAX refund*.
 
 [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/paypal_small.png)](http://paypal.me/mtpsilva)
 
 <br>
 
-### Support all these open hardware projects and become a patreon  
-Liked any of my PCB KiCad Designs? Help and Support my open work to all by becomming a LDAD Patreon.
-In return I will give a free PCB design in KiCad to all patreon supporters. To learn more go to patreon.com. Link below.
-
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/patreon_small.png)](https://www.patreon.com/ldad)
-
-<br />
-<br />
+=
 
 ______________________________________________________________________________________________________________________________
 ### License
