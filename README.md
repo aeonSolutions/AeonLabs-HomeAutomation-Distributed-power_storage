@@ -57,14 +57,14 @@ This smart distributed DC power management and charging device has the purpose o
 This is a simple Power Scheduler with BLE / WIFI connectivity to turn ON or OFF a USB-A port/Plug/outlet at any given day and hour. Compatible with all major commercial vendors and also open source vendors such as Home Assistant. The innovation of this  USB Power Scheduler device is in the ability to schedule charging to specific times during the day and night according to the price of electricity change. It can be programmed using machine learning to connect to an electricity market data source and calculate the best time to schedule power according to the price variations in the electricity markets.  
 
 <p align="center">
-   <img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-USB-A-Power-Scheduler/blob/main/media/pcb_front.png" height="200"">
+   <img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-USB-A-Power-Scheduler/blob/main/media/pcb_front.jpg" height="200"">
 </p>
 
 <br>
 
 - [45,000mA Power Wall using 18650 Lithium Polymer Batteries](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-45-000mA-Power-Wall-18650-Lithium-Polymer-Batteries)
 
-  Here in Belgium, is often found all kinds of home appliances when walking on the sidewalk. And anyone is free to take them. Gratis. The other day I picked up on the street this blue ray device. And, as I always do, the first thing I did was to disassemble it to its individual parts and components. It has a capacity of 45,000mA @ 4.2V DC, More than enough for powering of the grid all 5-9V DC  devices and appliances at any family home. During winter days, and rainy days, this power 🔋 wall will charge itself from the main 220V AC but only during the night when electricity is much cheaper. The estimated savings on the electricity bill at the end of the month are expected to be between 10eur to 20eur. Payback time is only 10 months. The minimum efficiency of this power wall is 95%  With an LCD display for some cool consumption statistics and three buttons for ......I don't know yet! 
+  Here in Belgium, is often found all kinds of home appliances when walking on the sidewalk. And anyone is free to take them. Gratis. The other day I picked up this on the street this blue ray device. And, as I always do, the first thing I did was to disassemble it into its individual parts and components. It has a capacity of 45,000mA @ 4.2V DC, More than enough for powering of the grid all 5-9V DC  devices and appliances at any family home. During winter days, and rainy days, this power 🔋 wall will charge itself from the main 220V AC but only during the night when electricity is much cheaper. The estimated savings on the electricity bill at the end of the month are expected to be between 10eur to 20eur. Payback time is only 10 months. The minimum efficiency of this power wall is 95%  With an LCD display for some cool consumption statistics and three buttons for ......I don't know yet! 
 
 <p align="center">
 <img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-45-000mA-Power-Wall-18650-Lithium-Polymer-Batteries/blob/main/media/WhatsApp%20Image%202023-09-02%20at%2014.37.48.jpg" height="200">
@@ -133,10 +133,6 @@ This is a simple PCB for a direct fit on commercially available [blue solar cell
 
 
 <br />
-
-**Hire AeonLabs** <br>
-If you like my work here and are looking to design and deploy your own smart device find [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/How-to-Hire-AeonLabs) how to hire me. 
-
 <br />
 
 ## Author
@@ -147,33 +143,53 @@ You can get in touch with me on my LinkedIn Profile:
 
 [![LinkedIn Link](https://img.shields.io/badge/Connect-Miguel--Tomas-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect)](https://www.linkedin.com/in/migueltomas/)
 
+<a href="https://stackexchange.com/users/18907312/miguel-silva"><img src="https://stackexchange.com/users/flair/18907312.png" width="208" height="58" alt="profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+
+<a href="https://app.userfeel.com/t/2f6cb1e0" target="_blank"><img src="https://app.userfeel.com/tester/737648/image?.png" width="257" class="no-b-lazy"></a>
+
 You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-Miguel--Tomas-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/aeonSolutions)
 
 <br>
 
-### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
-The PCB Design Files I provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza, or a book to help me study, eat, and think new PCB design files.
+**Hire me** <br>
+See [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/How-to-Hire-AeonLabs) how to hire AeonLabs.
 
-<p align+"left">
-<a href="https://www.buymeacoffee.com/migueltomas">
-   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" />
- </a>
 <br>
-<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/Designs/bmc_qr.png" height="130">
+
+### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
+The PCB design Files I provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
+
+<p align="center">
+    <a href="https://www.buymeacoffee.com/migueltomas">
+        <img height="35" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png">
+    </a>
 </p>
 
-<br />
 
-### Make a donation on Paypal
+### Make a donation on PayPal
 Make a donation on PayPal and get a TAX refund*.
 
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/paypal_small.png)](http://paypal.me/mtpsilva)
+<p align="center">
+    <a href="http://paypal.me/mtpsilva">
+        <img height="35" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/paypal_small.png">
+    </a>
+</p>
 
-<br>
+### Support all these open hardware projects and become a GitHub sponsor  
+Did you like any of my PCB KiCad Designs? Help and Support my open work to all by becoming a GitHub sponsor.
 
-=
+<p align="center">
+    <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
+        <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/want_to_become_a_sponsor.png">
+    </a>
+    <a href="https://github.com/sponsors/aeonSolutions">
+        <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/become_a_github_sponsor.png">
+    </a>
+</p>
 
-______________________________________________________________________________________________________________________________
+# 
+
 ### License
+
 Before proceeding to download any of AeonLabs software solutions for open-source development and/or PCB hardware electronics development make sure you are choosing the right license for your project. See [AeonLabs Solutions for Open Hardware & Source Development](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/AeonLabs-Solutions-for-Open-Hardware-&-Source-Development) for more information. 
 
