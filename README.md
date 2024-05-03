@@ -42,7 +42,8 @@ If you prefer, can read about my prototype iteration tests on Hackster. IO. Here
 <br>
 
 ## Electronic Devices Prototyped
-[Smart Power Management (LK-WM28)]()
+**[Smart Power Management (LK-WM28)]()**
+
 This smart distributed DC power management and charging device has the purpose of charging 5V DC battery walls and power packs from the main 220V AC line at home. The innovation of this power charging device is in the ability to schedule charging to specific times during the day and night according to the price of electricity change. It can be programmed using machine learning to connect to an electricity market data source and calculate the best time to schedule battery charging according to the price variations in the electricity markets. Made to fit the LK-WM28 enclosure sold on Aliexpress. It is a Wall mount type of installation.
 
 <p align="center">
@@ -51,7 +52,7 @@ This smart distributed DC power management and charging device has the purpose o
 
   <br>
   
-- [Smart Distributed DC Power Management](https://github.com/aeonSolutions/AeonLabs-Distributed-Power-Solutions-Smart-Distributed-DC-Power-Management/tree/main)
+**[Smart Distributed DC Power Management](https://github.com/aeonSolutions/AeonLabs-Distributed-Power-Solutions-Smart-Distributed-DC-Power-Management/tree/main)**
 
 This smart distributed DC power management and charging device has the purpose of charging 5V DC battery walls and power packs from the main 220V AC line at home. The innovation of this power charging device is in the ability to schedule charging to specific times during the day and night according to the price of electricity change. It can be programmed using machine learning to connect to an electricity market data source and calculate the best time to schedule battery charging according to the price variations in the electricity markets.
 
@@ -61,7 +62,7 @@ This smart distributed DC power management and charging device has the purpose o
 
   <br>
   
-- [USB-A Power Scheduler](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-USB-A-Power-Scheduler)
+**[USB-A Power Scheduler](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-USB-A-Power-Scheduler)**
 
 This is a simple Power Scheduler with BLE / WIFI connectivity to turn ON or OFF a USB-A port/Plug/outlet at any given day and hour. Compatible with all major commercial vendors and also open source vendors such as Home Assistant. The innovation of this  USB Power Scheduler device is in the ability to schedule charging to specific times during the day and night according to the price of electricity change. It can be programmed using machine learning to connect to an electricity market data source and calculate the best time to schedule power according to the price variations in the electricity markets.  
 
@@ -71,7 +72,7 @@ This is a simple Power Scheduler with BLE / WIFI connectivity to turn ON or OFF 
 
 <br>
 
-- [45,000mA Power Wall using 18650 Lithium Polymer Batteries](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-45-000mA-Power-Wall-18650-Lithium-Polymer-Batteries)
+**[45,000mA Power Wall using 18650 Lithium Polymer Batteries](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-45-000mA-Power-Wall-18650-Lithium-Polymer-Batteries)**
 
   Here in Belgium, is often found all kinds of home appliances when walking on the sidewalk. And anyone is free to take them. Gratis. The other day I picked up this on the street this blue ray device. And, as I always do, the first thing I did was to disassemble it into its individual parts and components. It has a capacity of 45,000mA @ 4.2V DC, More than enough for powering of the grid all 5-9V DC  devices and appliances at any family home. During winter days, and rainy days, this power 🔋 wall will charge itself from the main 220V AC but only during the night when electricity is much cheaper. The estimated savings on the electricity bill at the end of the month are expected to be between 10eur to 20eur. Payback time is only 10 months. The minimum efficiency of this power wall is 95%  With an LCD display for some cool consumption statistics and three buttons for ......I don't know yet! 
 
@@ -81,7 +82,7 @@ This is a simple Power Scheduler with BLE / WIFI connectivity to turn ON or OFF 
 
 <br>
 
-- [Automatic Power Delivery USB DC Power Outlet]() ( soon. stay tuned)
+**[Automatic Power Delivery USB DC Power Outlet]() ( soon. stay tuned)**
 
 This is a smart device made to fit this EU 220V power outlet with 2 USB A ports selling [here](https://s.click.aliexpress.com/e/_DlU2D7j).  This smart device enables power delivery management on low-powered DC lines, in the range of 3.3V to 20V DC and up to 100W. Each individual USB-A port can be set up to deliver individual DC output. For instance 5V DC on one port and 12V DC on the other.  The innovation of this particular smart electronics is in its ability to deliver USB power with the capability of automatic negotiation of voltage from anywhere between 5V and 20V and up to 100W.  While this project has not started, here's a great [video tutorial](https://www.instructables.com/DIY-USB-Type-C-Power-Delivery-Trigger-Board/) by GreatScott.  
 
@@ -91,7 +92,7 @@ This is a smart device made to fit this EU 220V power outlet with 2 USB A ports 
 
 <br>
 
-- [78x39mm Solar Cell Management 5V, 9V, 12V DC up to 9A Max](https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell--Power_Management)
+**[78x39mm Solar Cell Management 5V, 9V, 12V DC up to 9A Max](https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell--Power_Management)**
 
 This PCB is for assembly with [79x38mm solar cells](https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell/tree/main). It features up to 6x independent solar cell power lines, with up to **97.1 % efficiency**, that can be configured by a dip switch for 3 different DC outputs: 5V, 9V, and 12V ( 9A max).
 
@@ -101,7 +102,7 @@ This PCB is for assembly with [79x38mm solar cells](https://github.com/aeonSolut
 
 <br>
 
-- [Selectable USB DC Power Outlet](https://github.com/aeonSolutions/AeonLabs-AeonLabs-HomeAutomation-Distributed-power_storage-Selectable-USB-DC-power-outlet/tree/main)
+**[Selectable USB DC Power Outlet](https://github.com/aeonSolutions/AeonLabs-AeonLabs-HomeAutomation-Distributed-power_storage-Selectable-USB-DC-power-outlet/tree/main)**
 
 This is a smart device made to fit this EU 220V power outlet with 2 USB A ports selling [here](https://s.click.aliexpress.com/e/_DlU2D7j).  This smart device enables the management of multi-low powered DC lines, in the range of 3.3V to 24V DC. Each individual USB-A port can be set up to deliver individual DC output. For instance 5V DC on one port and 12V DC on the other.  
 
@@ -110,7 +111,7 @@ This is a smart device made to fit this EU 220V power outlet with 2 USB A ports 
 </p>
 
 
-- [Smart Battery Management](https://github.com/aeonSolutions/AeonLabs-AeonLabs-HomeAutomation-Distributed-power_storage-Smart-Battery-Management)
+**[Smart Battery Management](https://github.com/aeonSolutions/AeonLabs-AeonLabs-HomeAutomation-Distributed-power_storage-Smart-Battery-Management)**
 
 This is a simple PCB for a direct fit on commercially available [blue solar cell tiles](https://s.click.aliexpress.com/e/_DCnJW0V) to do active solar cell tile and battery management up to 8 solar tiles connected together intended for indoor usage. In particular to be installed on the top or downside of transparent glass windows at a home or office. This PCB, when assembled with a blue solar cell tile, can be used to power a low voltage 4.2V indoor illumination network using ultra-low power micro LED strips.  For instance [this one](https://s.click.aliexpress.com/e/_DCKg9xJ) sold on AliExpress.   
 
