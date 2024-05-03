@@ -72,6 +72,7 @@ This is a simple Power Scheduler with BLE / WIFI connectivity to turn ON or OFF 
 
 <p align="center">
    <img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-USB-A-Power-Scheduler/blob/main/media/pcb_front.jpg" height="200"">
+    <img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-USB-A-Power-Scheduler/blob/main/media/LK-USB07_ALIEXPRESS.jpg" height="200px">
 </p>
 
 <br>
