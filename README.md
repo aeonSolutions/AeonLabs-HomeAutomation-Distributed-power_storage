@@ -23,7 +23,7 @@ Last update: 22-12-2023
 
 **The problem**
 
-Now that a universal cable connector is a reality, the USB-C, the next big change is on how to remove all those power converters and inverters at home, vis-a-vis, " power bricks". These can waste up to 30% of electricity "converted". And in my professional opinion, the best and only way to do it is by adding a small mechanical switch, however, mechanical relays consume too much power (around 200mW). 
+Now that a universal cable connector is a reality, the USB-C, the next big change is on how to remove all those power converters and inverters at home, vis-a-vis, " power bricks". These can waste up to 30% of electricity "converted". In my professional opinion, the best and only way to do it is by adding a small mechanical switch, however, mechanical relays consume too much power (around 200mW). 
 
 <br>
 
@@ -42,7 +42,7 @@ If you prefer, can read about my prototype iteration tests on Hackster. IO. Here
 <br>
 
 ## Electronic Devices Prototyped
-**[Smart Power Management (LK-WM28)]()**
+**[Smart Power Management (LK-WM28)](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Distributed-power_management_LK-WM28/blob/main/README.md)**
 
 This smart distributed DC power management and charging device has the purpose of charging 5V DC battery walls and power packs from the main 220V AC line at home. The innovation of this power charging device is in the ability to schedule charging to specific times during the day and night according to the price of electricity change. It can be programmed using machine learning to connect to an electricity market data source and calculate the best time to schedule battery charging according to the price variations in the electricity markets. Made to fit the LK-WM28 enclosure sold on Aliexpress. It is a Wall mount type of installation.
 
