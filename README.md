@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/home_automation.jpeg" height="300">
+   <img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Distributed-power_storage/blob/main/media/distributed_power_banner.jpg" height="300">
 </p>
 
 [![](https://dcbadge.vercel.app/api/server/hw3j3RwfJf) ](https://discord.gg/hw3j3RwfJf)
